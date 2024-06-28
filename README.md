@@ -2,6 +2,9 @@
 App realizada para la formación ONE de Alura Latam.
 El proyecto se puede ver desplegado en: https://space-app-psi-one.vercel.app/  
 
+![image](https://github.com/WillyBurritos/SpaceApp/assets/108031856/112e8cf7-6c78-4bc3-81ef-4653a52ca236)
+
+
 
 
 
