@@ -1,6 +1,9 @@
 # React + Vite
+App realizada para la formación ONE de Alura Latam.
+El proyecto se puede ver desplegado en: https://space-app-psi-one.vercel.app/  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
 
 Currently, two official plugins are available:
 
